@@ -1,3 +1,5 @@
 x = 1
-
-x = 
+2.times do
+x = x + 1
+puts x 
+end
